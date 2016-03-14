@@ -1,7 +1,12 @@
 <html>
+<<<<<<< HEAD
 	 <head>
 	 		<title>GIT ¼ö¾÷<.title>
 	 		</head>
+=======
+	
+	<head>
+>>>>>>> ì‹¤í—˜
 
 <body>
 	<header>
