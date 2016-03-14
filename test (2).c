@@ -1,5 +1,7 @@
 <html>
-	
+	 <head>
+	 		<title>GIT ¼ö¾÷<.title>
+	 		</head>
 
 <body>
 	<header>
@@ -11,3 +13,6 @@
 			</ul>
 			</body>
 			</html>
+			
+			ul
+			ul
