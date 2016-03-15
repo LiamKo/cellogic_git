@@ -28,4 +28,13 @@
 			<push>
 			
 			git test
+<<<<<<< HEAD
 			\\i am kkk
+=======
+			
+			
+			
+			
+			
+			iam aaaa
+>>>>>>> 48ed143211b50acd7e41c03f09fe3fb81a534c76
