@@ -26,3 +26,5 @@
 			<branch>
 			
 			<push>
+			
+			git test
